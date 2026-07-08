@@ -1,4 +1,5 @@
 # nvidia-gpu-sales-analysis
+
 <br>
 A Python-based ETL pipeline that extracts, cleans, transforms, and loads NVIDIA GPU sales data into a MySQL database for analysis and reporting.
 
@@ -97,3 +98,6 @@ The analysis helps identify:<br><br>
 - Products with better customer satisfaction scores.<br>
 - Impact of stock availability on sales performance.<br>
 - Effectiveness of bundle addons in increasing revenue.<br>
+<br><br>
+
+#### Author :- Pratik shinde
