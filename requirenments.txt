@@ -1,8 +1,9 @@
-pandas
-numpy
-matplotlib
-seaborn
-sqlalchemy
-mysql-connector-python
-jupyter
-visual studio code
+Requirenments:- 
+                pandas
+                numpy
+                matplotlib
+                seaborn
+                sqlalchemy
+                mysql-connector-python
+                jupyter
+                visual studio code
