@@ -1,5 +1,5 @@
 # NVIDIA GPU Sales Analysis
-
+---
 ## Project Overview
 
 This project analyzes NVIDIA GPU sales data to uncover trends, patterns, and business insights using Python and data analysis libraries. The analysis focuses on sales performance, regional demand, product popularity, revenue generation, and customer purchasing behavior.
