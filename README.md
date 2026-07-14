@@ -102,7 +102,7 @@ Generated insights to support:
 
 ---
 
-## Project Structure
+## Project Folder structure 
 
 ```text
 nvidia-gpu-sales-analysis/
